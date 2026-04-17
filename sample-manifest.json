@@ -1,0 +1,12 @@
+{
+  "export_job_id": "aebe6d92-3f29-4c82-bdb5-2106f2ac04e3",
+  "id_short": 582249,
+  "published_at": "2026-04-17T07:25:27Z",
+  "repo_name": "all-restaurants-in-missouri-city-texas-us-sample-582249",
+  "sample_asset_name": "beamstation_582249_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/582249/beamstation_582249_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 21,
+  "sample_sha256": "95e7b9f9a3b7740e7000ec482f00cddc3e019c09ba88b89c0637891575a1961c",
+  "sample_size_bytes": 87761,
+  "total_records": 221
+}
