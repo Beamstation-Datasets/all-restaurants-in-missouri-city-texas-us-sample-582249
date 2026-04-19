@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Missouri City in the Lone Star State. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Missouri City, Texas, US",
-  "export_job_id": "aebe6d92-3f29-4c82-bdb5-2106f2ac04e3",
+  "export_job_id": "4645878a-0400-4e3c-bfcc-e816e0794c4c",
   "github_org": "Beamstation-Datasets",
   "id_short": 582249,
   "location_name": "Missouri City",
   "location_type": "city",
   "repo_name": "all-restaurants-in-missouri-city-texas-us-sample-582249",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/582249/beamstation_582249_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.5,
+  "sample_pct": 9.63,
   "sample_records": 21,
   "sample_sha256": "95e7b9f9a3b7740e7000ec482f00cddc3e019c09ba88b89c0637891575a1961c",
   "sample_size_bytes": 87761,
-  "total_records": 221,
-  "updated_at": "2026-04-09T09:13:00.193991+00:00"
+  "total_records": 218,
+  "updated_at": "2026-04-16T09:13:47.368250+00:00"
 }
