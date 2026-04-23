@@ -1,6 +1,6 @@
 # All Restaurants in Missouri City, Texas, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `582249` |
 | Location | Missouri City |
 | Category | Restaurants |
-| Full dataset size | 218 records |
-| Free sample size | 21 records (9.63%) |
-| Last export | 2026-04-16T09:13:47.368250+00:00 |
+| Full dataset size | 176 records |
+| Free sample size | 17 records (9.66%) |
+| Last export | 2026-04-23T09:13:34.620058+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-missouri-city-texas-us-sample-582249/releases/download/sample-latest/beamstation_582249_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
